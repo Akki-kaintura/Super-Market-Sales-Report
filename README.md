@@ -1,6 +1,8 @@
 # Super-Market-Sales-Report
 Successfully transformed raw sales data into actionable insights and captivating visualizations for a Supermarket Sales Report.
 
+![Screenshot 2024-01-24 141418](https://github.com/Akki-kaintura/Super-Market-Sales-Report/assets/154966225/d5000656-1757-4cca-be3b-bc277b21da1f)
+
 Hi 
 
 I'am excited to share my excel project on " Super Market Sales Analysis Dashboard"
