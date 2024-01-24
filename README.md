@@ -5,7 +5,7 @@ Successfully transformed raw sales data into actionable insights and captivating
 
 Hi 
 
-I'am excited to share my excel project on " Super Market Sales Analysis Dashboard"
+I'm excited to share my excel project on " Super Market Sales Analysis Dashboard"
 
 **Objective :**
 
